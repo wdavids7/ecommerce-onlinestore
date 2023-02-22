@@ -10,7 +10,17 @@ include "./components/navbar.php";
 ?>
 
 
-<h1>Homepage</h1>
+<main>
+    <div class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>Homepage</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
 
 
 
