@@ -1,3 +1,8 @@
+Update: Login details
+Login: Test1
+Password: Password123
+
+
 # ecommerce-onlinestore
 ecommerce-onlinestore - codespace assignment
 used html, css and javascript for front end and php (phpmyadmin and xampp) for back end.
